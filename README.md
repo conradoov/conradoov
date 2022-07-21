@@ -2,7 +2,7 @@
 
 # Hi, there! I'm Conrado!
 
-I graduated as a Industrial Engineer in UFSJ, focused on Operacional Research, DES and Statistical Learning.
+I graduated from UFSJ with a degree in Industrial Engineer, focused on Operacional Research, DES and Statistical Learning.
 
 ## My interests and contact
 
