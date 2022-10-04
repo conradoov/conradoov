@@ -11,7 +11,7 @@ I graduated from UFSJ with a degree in Industrial Engineer, focused on Operacion
 - :hourglass: I'm specialized on these Microsoft low code solutions: Excel | Power BI | Power Apps | Power Automate 
 - :hourglass: I'm learning SQL for BI and basics of data engineering
 - :earth_americas: I’m looking to collaborate on projects focused on make a better society with data
-- 📫 You can reach me here or on LinkedIn: @conradoov 
+- 📫 You can reach me here or on [LinkedIn](https://www.linkedin.com/in/conradoov/)
 
 ## My GitHub stats:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=conradoov&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
